@@ -1,4 +1,4 @@
-Este programa foi desenvolvido em C++ como um exemplo de desafio típico aplicado em processos seletivos para vagas de estágio. 
+Este programa foi desenvolvido em C++. 
 O código lê uma quantidade N de números inteiros fornecidos pelo usuário e, a partir desses valores, realiza algumas operações básicas de análise. Primeiro, 
 o programa identifica qual é o maior e o menor número entre os informados. Em seguida, calcula a média aritmética de todos os valores digitados, exibindo o 
 resultado com duas casas decimais para facilitar a leitura. Após isso, organiza os números em ordem crescente utilizando o algoritmo de ordenação padrão da linguagem. 
